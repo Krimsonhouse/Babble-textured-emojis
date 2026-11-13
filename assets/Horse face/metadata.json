@@ -1,0 +1,12 @@
+{
+  "cldr": "horse face",
+  "fromVersion": "0.6",
+  "glyph": "🐴",
+  "group": "Animals & Nature",
+  "keywords": [
+    "face",
+    "horse"
+  ],
+  "tts": "horse face",
+  "unicode": "1f434"
+}
