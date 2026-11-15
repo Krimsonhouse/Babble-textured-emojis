@@ -2,8 +2,8 @@
 
 Client review and delivery repository for Babble's textured animated emojis.
 
-This snapshot contains **1,444 owner-approved animations across 516 designs**
-(4,578,781,588 animation bytes). It is a partial approved collection from the
+This snapshot contains **1,768 owner-approved animations across 588 designs**
+(5,607,663,688 animation bytes). It is a partial approved collection from the
 2,241-variation upstream source. Missing designs or tones are not delivered here.
 
 ## Layout and provenance
@@ -43,3 +43,15 @@ assert release authorization or a technical pass for assets with unresolved
 qualification. Client decisions on older hashes do not approve revised files.
 
 Upstream artwork and metadata carry Microsoft's MIT notice, retained in `LICENSE`.
+
+## Portal sync snapshot — 15 November 2026
+
+The owner reports that the portal folder sync is complete for catalog SHA-256
+`64a96330018153afdda0ec3feaa12eb7c3e822706cd73ba88e611f1b7094cd04`. Live portal registration and browser behavior have not been
+independently verified here. The files in this repository mirror that exact
+approved review snapshot; they do not assert client acceptance or release.
+
+Two Default files (Man in lotus position and Woman in motorized wheelchair facing
+right) are owner-authorized legacy portal exceptions. Their exact bytes retain
+missing finish receipts and normalized APNG disposal; no technical pass is granted.
+See each manifest entry for the recorded exception and qualification limitations.
