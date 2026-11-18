@@ -1,0 +1,11 @@
+{
+  "cldr": "crocodile",
+  "fromVersion": "1.0",
+  "glyph": "🐊",
+  "group": "Animals & Nature",
+  "keywords": [
+    "crocodile"
+  ],
+  "tts": "crocodile",
+  "unicode": "1f40a"
+}
