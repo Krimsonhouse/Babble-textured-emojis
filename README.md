@@ -2,7 +2,7 @@
 
 Animated emoji collection prepared by Krimsonhouse.
 
-This delivery contains **2,039 approved animations across 684 designs**.
+This delivery contains **2,237 approved animations across 746 designs**.
 
 ## Files
 

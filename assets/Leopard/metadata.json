@@ -1,0 +1,11 @@
+{
+  "cldr": "leopard",
+  "fromVersion": "1.0",
+  "glyph": "🐆",
+  "group": "Animals & Nature",
+  "keywords": [
+    "leopard"
+  ],
+  "tts": "leopard",
+  "unicode": "1f406"
+}
